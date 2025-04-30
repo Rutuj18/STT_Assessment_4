@@ -1,0 +1,10 @@
+C:\Users\rutuj\OneDrive\Documents\Alarm_2\Alarm_2\obj\Debug\Alarm_2.csproj.AssemblyReference.cache
+C:\Users\rutuj\OneDrive\Documents\Alarm_2\Alarm_2\obj\Debug\Alarm_2.Properties.Resources.resources
+C:\Users\rutuj\OneDrive\Documents\Alarm_2\Alarm_2\obj\Debug\Alarm_2.csproj.GenerateResource.cache
+C:\Users\rutuj\OneDrive\Documents\Alarm_2\Alarm_2\obj\Debug\Alarm_2.csproj.CoreCompileInputs.cache
+C:\Users\rutuj\OneDrive\Documents\Alarm_2\Alarm_2\bin\Debug\Alarm_2.exe.config
+C:\Users\rutuj\OneDrive\Documents\Alarm_2\Alarm_2\bin\Debug\Alarm_2.exe
+C:\Users\rutuj\OneDrive\Documents\Alarm_2\Alarm_2\bin\Debug\Alarm_2.pdb
+C:\Users\rutuj\OneDrive\Documents\Alarm_2\Alarm_2\obj\Debug\Alarm_2.exe
+C:\Users\rutuj\OneDrive\Documents\Alarm_2\Alarm_2\obj\Debug\Alarm_2.pdb
+C:\Users\rutuj\OneDrive\Documents\Alarm_2\Alarm_2\obj\Debug\AlarmClockApp.Form1.resources
